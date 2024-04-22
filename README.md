@@ -3,7 +3,8 @@ This is the repository for Monash University Data Analytics Bootcamp Module 6 Ch
 
 # How to use
 The main file/s are the Jupyter Notebooks: WeatherPy.ipynb and VacationPy.ipynb
-Running this file will produce all of the used DataFrames and created graphs  
+
+Running these files will produce all of the used DataFrames and created graphs  
 
 Analysis of graphs and visual report can be found in - Module 6 challenge.docx  
 
